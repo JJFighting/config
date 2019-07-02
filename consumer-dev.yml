@@ -15,3 +15,6 @@ server:
 spring:
   application:
     name: consumer
+userDTO: 
+  id: 9527
+  name: 哈哈哈
